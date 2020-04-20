@@ -1,8 +1,8 @@
 package sdu.mmmi;
 
 public class Product {
+    public ProductDescription productDescription;
     private int amount;
-    private ProductDescription productDescription;
 
     public int getAmount() {
         return amount;
