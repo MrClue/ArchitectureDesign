@@ -132,3 +132,5 @@ dist/
 nbdist/
 .nb-gradle/
 
+.idea/encodings.xml
+.idea/vcs.xml
